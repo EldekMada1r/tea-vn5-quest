@@ -1,0 +1,9 @@
+{
+  "name": "@vnlogin5/tea-vn5-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@vnlogin5",
+  "repository": "https://github.com/EldekMada1r/tea-vn5-quest.git",
+  "license": "ISC"
+}
